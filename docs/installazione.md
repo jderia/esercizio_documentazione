@@ -12,3 +12,6 @@ da locale a condiviso
 1. entrare nella cartella dove si è scarcato il progetto
 2. `cd src`
 3. `cat index.html`
+
+```git clone https://github.com/jderia/TEST_FISM.git
+cd TEST_FISM2026```
