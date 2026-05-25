@@ -33,6 +33,8 @@ Lista di elementi:
 
 ## installazione
 
+[clicca qui per andare all'instalalzione]( docs/installazione.md)
+
 ## utilizzo
 
 ## esempi
