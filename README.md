@@ -15,6 +15,11 @@ Testo normale : Paragrafo
 
 Questo è "codice inline"
 
+Lista di elementi:
+
+    - sottoelemento 1
+            - sottoelemento 2
+
 # New Project
 
 
