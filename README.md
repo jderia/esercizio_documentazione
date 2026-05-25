@@ -4,6 +4,9 @@ prova di modifica
 
 # TEST FISM 2026
 
+Per controllare lo stato della repo usa `git status`
+Poi aggiungi i file con `git add` . e salva tutto con  `git commit` .
+
 Testo normale : Paragrafo
 
 **Test in grassetto : grassetto
