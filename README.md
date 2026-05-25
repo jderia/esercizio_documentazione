@@ -10,6 +10,8 @@ Testo normale : Paragrafo
 
 *** testo in grassetto ed in corsivo
 
+Questo è "codice inline"
+
 # New Project
 
 
